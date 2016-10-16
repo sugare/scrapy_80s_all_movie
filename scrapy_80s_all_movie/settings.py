@@ -89,5 +89,5 @@ ROBOTSTXT_OBEY = True
 #HTTPCACHE_IGNORE_HTTP_CODES = []
 #HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
 USER_AGENT = 'Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0'
-FEED_URI = u'file:///home/song/Desktop/80s_allmovies.csv'
+FEED_URI = u'file:///tmp/80s_allmovies.csv'
 FEED_FORMAT = 'CSV'
